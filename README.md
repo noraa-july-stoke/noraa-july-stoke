@@ -3,14 +3,28 @@
 <!--
 **noraa-july-stoke/noraa-july-stoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### - 🔭 I’m currently working on: A new python framework!
+### - 🌱 I’m currently learning: Rust / Machine Learning / ML APIs!
+### - 👯 I’m looking to collaborate on: cool open-source projects
+### - 🤔 I’m looking for help with: any of my projects marked "help wanted"
+### - 💬 Ask me about Pretty much anything!
+### - 📫 How to reach me: noraa.july.stoke@gmail.com
+### - 😄 Pronouns: she/they are both fine with me!
+### - ⚡ Fun fact: I like peanut butter on my pancakes!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noraa-july-stoke)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+### - 🔭 I’m currently working on: A new python framework!
+### - 🌱 I’m currently learning: Rust / Machine Learning / ML APIs!
+### - 👯 I’m looking to collaborate on: cool open-source projects
+### - 🤔 I’m looking for help with: any of my projects marked "help wanted"
+### - 💬 Ask me about Pretty much anything!
+### - 📫 How to reach me: noraa.july.stoke@gmail.com
+### - 😄 Pronouns: she/they are both fine with me!
+### - ⚡ Fun fact: I like peanut butter on my pancakes!
