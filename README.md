@@ -1,18 +1,6 @@
 # 🪷 🪷 🪷 🪷 🪷 🪷 🪷 🪷 🪷 🪷 🪷 🪷 
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/madushadhanushka?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
-<!--
-**noraa-july-stoke/noraa-july-stoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### - 🔭 I’m currently working on: A new python framework!
-### - 🌱 I’m currently learning: Rust / Machine Learning / ML APIs!
-### - 👯 I’m looking to collaborate on: cool open-source projects
-### - 🤔 I’m looking for help with: any of my projects marked "help wanted"
-### - 💬 Ask me about: Pretty much anything!
-### - 📫 How to reach me: noraa.july.stoke@gmail.com
-### - 😄 Pronouns: she/they are both fine with me!
-### - ⚡ Fun fact: I like peanut butter on my pancakes!
-
--->
 
 
 
