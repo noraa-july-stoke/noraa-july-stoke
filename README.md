@@ -25,9 +25,9 @@
 - 👯 I’m looking to collaborate on:      cool open-source projects
 - 🤔 I’m looking for help with:          any of my projects marked "help wanted"
 - 💬 Ask me about:                       Pretty much anything!
-- 📫 How to reach me:                    noraa.july.stoke@gmail.com
-                                         linkedin.com/in/noraa-july-stoke
-                                         medium.com/@noraa.july.stoke
+- 📫 How to reach me:                    - noraa.july.stoke@gmail.com
+                                         - linkedin.com/in/noraa-july-stoke
+                                         - medium.com/@noraa.july.stoke
 - 😄 Pronouns:                           she/they are both fine with me!
 - ⚡ Fun fact:                            I like peanut butter on my pancakes!
 ```
