@@ -1,5 +1,4 @@
 # 🪷 🪷 🪷 🪷 🪷 🪷 🪷 🪷 🪷 🪷 🪷 🪷 
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/madushadhanushka?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 
 
 
@@ -9,6 +8,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noraa-july-stoke&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=noraa-july-stoke)](https://github.com/madushadhanushka/github-readme)
 
 
 ```
