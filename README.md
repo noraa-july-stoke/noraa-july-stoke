@@ -7,8 +7,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noraa-july-stoke&count_private=true&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=noraa-july-stoke)](https://github.com/madushadhanushka/github-readme)
-<div align="center">
+<!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=noraa-july-stoke)](https://github.com/madushadhanushka/github-readme)
+<div align="center"> -->
 
 
 ```
