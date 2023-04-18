@@ -20,6 +20,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noraa-july-stoke&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
+![Contribution](https://activity-graph.herokuapp.com/graph?username=noraa-july-stoke&theme=react-dark&hide_border=true&area=true)
+
 
 ```
                ======================================🙃=🙃=🙃======================================
