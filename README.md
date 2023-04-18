@@ -1,5 +1,5 @@
 # 🪷 🪷 🪷 🪷 🪷 🪷 🪷 🪷 🪷 🪷 🪷 🪷 
-
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/madushadhanushka?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 <!--
 **noraa-july-stoke/noraa-july-stoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +20,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noraa-july-stoke&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=noraa-july-stoke&theme=react-dark&hide_border=true&area=true)
+
 
 
 ```
